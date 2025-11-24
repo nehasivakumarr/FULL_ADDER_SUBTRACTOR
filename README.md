@@ -37,10 +37,13 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+
 FULL ADDER
+
 ![WhatsApp Image 2025-11-24 at 11 34 19_428da82b](https://github.com/user-attachments/assets/393527cd-0fc8-492a-83ae-62deeb92be1a)
 
 FULL SUBRACTOR 
+
 ![WhatsApp Image 2025-11-24 at 11 34 31_23618055](https://github.com/user-attachments/assets/8650845e-cd17-4c1c-9d8c-ac48e1e89d6e)
 
 
@@ -74,21 +77,26 @@ endmodule
 ```
 
 **RTL Schematic**
-```
+
 FULL ADDER
+
 <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/a7c3ac20-4818-4fde-8374-ebc055098771" />
 
 FULL SUBRACTOR 
+
 <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/1ade53aa-41ba-4a7b-8575-249daeebbfb5" />
-```
+
 
 
 
 **Output Timing Waveform**
+
 FULL ADDER
+
 <img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/14f13fc2-c32c-45dc-b7ef-b5b62ca1a8f2" />
 
 FULL SUBRACTOR
+
 <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/9e0733d3-2866-4696-8605-f2d756ef214a" />
 
 
