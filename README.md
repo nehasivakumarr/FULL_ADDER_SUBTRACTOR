@@ -74,12 +74,13 @@ endmodule
 ```
 
 **RTL Schematic**
+```
 FULL ADDER
 <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/a7c3ac20-4818-4fde-8374-ebc055098771" />
 
 FULL SUBRACTOR 
 <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/1ade53aa-41ba-4a7b-8575-249daeebbfb5" />
-
+```
 
 
 
